@@ -1,1 +1,32 @@
-# Animal_Randomizer
+<!-- # <img alt="relax logo" src="./assets/relax.png" height="100px">
+
+## Description
+
+In this day and age, it can be difficult to find time to take a breather. Relax, a breathing application, allows you to reorient yourself, calmly and discreetly, with a visual director to tell you when to breathe in, hold, and breathe out.
+
+<img alt="relax demo gif" src="./assets/relax.gif" height="500px">
+
+## Table of Contents
+
+- [Technologies](#technologies)
+- [Usage](#usage)
+
+## Technologies
+
+<img float="left" alt="CSS badge" src="https://img.shields.io/badge/CSS-49%25-blueviolet">
+<img float="left" alt="JavaScript badge" src="https://img.shields.io/badge/JavaScript-33%25-yellow">
+<img float="left" alt="HTML badge" src="https://img.shields.io/badge/HTML-18%25-orange">
+
+- HTML
+- CSS
+  - Keyframes and Animations
+- JavaScript
+
+## Usage
+
+- [Github Pages](https://bridgetrshannon.github.io/Relax/)
+- [GitHub](https://github.com/bridgetrshannon/Relax)
+
+```
+git clone https://github.com/bridgetrshannon/Relax.git
+``` -->
