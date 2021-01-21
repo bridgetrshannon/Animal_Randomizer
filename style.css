@@ -1,6 +1,15 @@
-.container {
+
+body {
+    margin: 0;
+    display: flex;
+    align-items: center;
     justify-content: center;
-}
+    flex-direction: column;
+    height: 100vh;
+    color: #fff;
+    letter-spacing: 1px; 
+    text-align: center;
+  }
 
 .images  {
     display: flex;
@@ -14,14 +23,14 @@
     object-fit: cover;
     height: 100%;
     width: 100%;
-    /* border-radius: 15px; */
   }
 
   #dog-img {
     background-color: #fff;
-    margin:;
+    margin:0;
     width: 400px;
     height: 400px;
+    align-items: center;
     /* border-radius: 15px; */
   }
 
