@@ -1,5 +1,5 @@
 
-body {
+  body {
     margin: 0;
     display: flex;
     align-items: center;
@@ -11,7 +11,15 @@ body {
     text-align: center;
   }
 
-.images  {
+  /* .card {
+    box-shadow: 15px 15px 15px #c4c1c1, -15px -15px 15px #c4c1c1, 15px -15px 15px #c4c1c1, -15px 15px 15px #c4c1c1;
+  } */
+
+  .card {
+    box-shadow: 15px 15px 15px #c4c1c1;
+  }
+
+  .images  {
     display: flex;
     align-items: center;
     justify-content: space-around;   
@@ -31,16 +39,15 @@ body {
     width: 400px;
     height: 400px;
     align-items: center;
-    /* border-radius: 15px; */
+    border-radius: 15px;
+    margin: 2px;
+    padding:20px;
   }
 
 @media only screen and (max-width: 590px) {
-    .header {
-      font-size: 20px;
-    }
-    #dog-img, #cat-img {
+    #dog-img {
       background-color: #fff;    
-      width: 200px;
-      height: 200px;
+      width: 300px;
+      height: 300px;
     }
   }
