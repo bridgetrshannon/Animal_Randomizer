@@ -1,10 +1,10 @@
-<!-- # <img alt="relax logo" src="./assets/relax.png" height="100px">
+# <img alt="randog logo" src="./assets/randog.png" height="100px">
 
 ## Description
 
-In this day and age, it can be difficult to find time to take a breather. Relax, a breathing application, allows you to reorient yourself, calmly and discreetly, with a visual director to tell you when to breathe in, hold, and breathe out.
+Using Dog API, RanDog, allows users to view random pictures of dogs at the click of a button.
 
-<img alt="relax demo gif" src="./assets/relax.gif" height="500px">
+<img alt="randog demo gif" src="./assets/randog.gif" height="500px">
 
 ## Table of Contents
 
@@ -19,8 +19,8 @@ In this day and age, it can be difficult to find time to take a breather. Relax,
 
 - HTML
 - CSS
-  - Keyframes and Animations
 - JavaScript
+- [Dog API](https://dog.ceo/dog-api/)
 
 ## Usage
 
@@ -29,4 +29,4 @@ In this day and age, it can be difficult to find time to take a breather. Relax,
 
 ```
 git clone https://github.com/bridgetrshannon/Relax.git
-``` -->
+```
