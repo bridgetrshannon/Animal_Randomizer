@@ -14,9 +14,9 @@ Using Dog API, RanDog, allows users to view random pictures of dogs at the click
 
 ## Technologies
 
-<img float="left" alt="HTML badge" src="https://img.shields.io/badge/HTML-57%25-orange">
+<img float="left" alt="HTML badge" src="https://img.shields.io/badge/HTML-58%25-orange">
 <img float="left" alt="CSS badge" src="https://img.shields.io/badge/CSS-29%25-blueviolet">
-<img float="left" alt="JavaScript badge" src="https://img.shields.io/badge/JavaScript-14%25-yellow">
+<img float="left" alt="JavaScript badge" src="https://img.shields.io/badge/JavaScript-13%25-yellow">
 
 - HTML
 - CSS
