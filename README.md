@@ -25,8 +25,8 @@ Using Dog API, RanDog, allows users to view random pictures of dogs at the click
 ## Usage
 
 - [Github Pages](https://bridgetrshannon.github.io/Relax/)
-- [GitHub](https://github.com/bridgetrshannon/Relax)
+- [GitHub](https://github.com/bridgetrshannon/RanDog)
 
 ```
-git clone https://github.com/bridgetrshannon/Relax.git
+git clone https://github.com/bridgetrshannon/RanDog.git
 ```
